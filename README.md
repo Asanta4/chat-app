@@ -20,8 +20,12 @@ Welcome to the Basic Chat App, a cross-platform mobile application developed usi
 - **Firebase Cloud Messaging**: Enables reliable message delivery at no cost.
 
 ##  Note
-Please note that not all files are uploaded to this repository. Only the main files that were modified are included. Ensure you follow the steps to set up the environment and add the necessary configuration files as described above.
+Please note that not all files are uploaded to this repository. Only the main files that were modified are included.
 
 
-https://github.com/Asanta4/chat-app/assets/136238984/f12655f0-d09b-4be4-ace1-531fe624bbe4
-
+## Video of the App
+<div align="center">
+  <a href="https://github.com/Asanta4/chat-app/assets/136238984/f12655f0-d09b-4be4-ace1-531fe624bbe4">
+    <img src="https://img.youtube.com/vi/f12655f0-d09b-4be4-ace1-531fe624bbe4/0.jpg" alt="Chat App Demo Video">
+  </a>
+</div>
