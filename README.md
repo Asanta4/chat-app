@@ -26,6 +26,5 @@ Please note that not all files are uploaded to this repository. Only the main fi
 ## Video of the App
 <div align="center">
   <a href="https://github.com/Asanta4/chat-app/assets/136238984/f12655f0-d09b-4be4-ace1-531fe624bbe4">
-    <img src="https://img.youtube.com/vi/f12655f0-d09b-4be4-ace1-531fe624bbe4/0.jpg" alt="Chat App Demo Video">
   </a>
 </div>
